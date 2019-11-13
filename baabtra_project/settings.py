@@ -25,7 +25,7 @@ SECRET_KEY = 'wlu*omibl^4v-&n%ab!$4em!2t!27k)&3n5f%bs)!(azvk*p=q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nouseena-baabtra.herokuapp.com']
 
 
 # Application definition
